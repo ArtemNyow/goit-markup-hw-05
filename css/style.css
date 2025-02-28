@@ -679,7 +679,7 @@ img {
 
 .close-btn:focus,
 .close-btn:hover {
-    stroke: #ffffff;
+    fill: #ffffff;
     background-color: #404BBF;
     border: none
 }
