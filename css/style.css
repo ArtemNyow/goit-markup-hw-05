@@ -778,6 +778,14 @@ img {
     border-color: #4D5AE5;
 }
 
+.form-input-container:hover .input-icon {
+    fill: var(--iris);
+}
+
+.form-input:focus+.input-icon {
+    fill: var(--iris);
+}
+
 .checkbox-span {
     width: 16px;
     height: 16px;
